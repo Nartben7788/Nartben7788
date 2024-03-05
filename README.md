@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 I am n aspiring software engineer and computer science student at Kibo School. Seasoned in tackling complex technical challenges with creativity and precision. Specialized in backend  development, adept at leveraging diverse technologies to build scalable and high-performance applications. Committed to continuous improvement and passionate about pushing the boundaries of what's possible in software engineering. Ready to bring a unique blend of technical expertise, innovative thinking, and collaborative spirit to drive impactful projects forward.
 
-# Technical Skills:
+### Technical Skills:
 Python, HTML, CSS, JavaScript, Flask
 
 
